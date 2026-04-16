@@ -67,7 +67,7 @@ public class Productbill
                             for(i=0;i<n;i++)
 		{
 			p[i]=new Product();
-			System.out.println("Enter the id name price and quantity of product");
+			System.out.println("Enter the id, name, price and quantity of product");
 
 			id=sc.nextInt();
 			sc.nextLine();
